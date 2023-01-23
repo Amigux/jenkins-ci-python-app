@@ -35,7 +35,7 @@ python -m unittest test/unit/test.py
 robot test/system/machine.robot
 ```
 
-## Création d'un pod kubernetes
+## Création d'un pod kubernetes :
 
 ```sh
 kubectl apply -f manifest-k8s
